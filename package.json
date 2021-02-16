@@ -2,7 +2,7 @@
   "name": "github_search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andreypolishchuk28.github.io/search_by_nickname/",
+  "homepage": "https://AndreyPolishchuk28.github.io/search_by_nickname/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
